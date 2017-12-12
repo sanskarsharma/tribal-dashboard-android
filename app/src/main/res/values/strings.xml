@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tribal Dashboard CG</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="my_cart">Department Projects</string>
+    <string name="delete">Add New LOG</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+</resources>
